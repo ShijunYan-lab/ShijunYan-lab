@@ -1,3 +1,4 @@
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+Github+homepage+.)
 ![Metrics](/github-metrics.svg)
 
 
