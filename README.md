@@ -1,4 +1,6 @@
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+Github+homepage+.)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=76EDF7&center=%E7%9C%9F&vCenter=%E5%81%87&repeat=%E7%9C%9F&random=%E5%81%87&width=435&height=30&lines=Welcome+to+my+Github+homepage)](https://git.io/typing-svg)
+
+
 ![Metrics](/github-metrics.svg)
 
 
